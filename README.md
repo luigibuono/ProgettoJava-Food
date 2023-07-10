@@ -3,10 +3,10 @@
 <h1> Ho realizzato questo progetto per il corso Start2Impact Java Basics </h1>
 
 Mi sono aiutato con i consigli trovati nel progetto 'Risorse utili'.
-Per il funzionamento dell'app bisogna installare  Apache Maven (https://maven.apache.org/download.cgi) apache-maven-3.9.3-bin.zip
+Per il funzionamento dell'app bisogna installare  Apache Maven (https://maven.apache.org/download.cgi) apache-maven-3.9.3-bin.zip <br>
 Come editor di testo Eclipse IDE o Visual Studio Code .
 
-
+<hr>
 
 Cartella principale src/main/java 
 Dove si trovano tutti i file : org/gs
