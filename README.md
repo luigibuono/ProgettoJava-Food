@@ -24,6 +24,8 @@ Nel terminale digitare : mvn package      => creazione del pacchetto
 Si genererà la cartella target 
 Nel terminale digitare : java -jar target/application.jar    => creazione file jar
 
+*per un uso più rapido è disponibile il pulsante run nel Main.java*
+
 
 
 
