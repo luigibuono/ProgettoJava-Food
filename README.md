@@ -1,5 +1,22 @@
 # ProgettoJava-Food
 
+#CorrezionePost-feedback
+
+Per aprire il file jar 
+terminale node digitare java -jar "percorso file jar"
+si visualizzerà il menu senza errori 
+
+
+Aggiungere a Main.java
+
+        service.FetchData(prodotti, "src/main/java/org/gs/files/prodotti.csv");
+        service.FetchData(utenti, "src/main/java/org/gs/files/utenti.csv");
+        service.FetchData(vendite, "src/main/java/org/gs/files/vendite.csv");
+
+        Per l'uso su vscode 
+
+
+
 <h1> Ho realizzato questo progetto per il corso Start2Impact Java Basics </h1>
 
 Mi sono aiutato con i consigli trovati nel progetto 'Risorse utili'. <br>
