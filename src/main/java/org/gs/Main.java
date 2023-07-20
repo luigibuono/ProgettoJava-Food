@@ -26,7 +26,9 @@ public class Main {
         ArrayList<ArrayList<String>> utenti = new ArrayList<>();
         ArrayList<ArrayList<String>> vendite = new ArrayList<>();
 
-       
+        service.FetchDataFromFile(prodotti, "src/main/java/org/gs/files/prodotti.csv");
+        service.FetchDataFromFile(utenti, "src/main/java/org/gs/files/utenti.csv");
+        service.FetchDataFromFile(vendite, "src/main/java/org/gs/files/vendite.csv");
 
         
         ArrayList<Prodotti> listaProdotti = new ArrayList<>();
