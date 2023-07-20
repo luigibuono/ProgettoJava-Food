@@ -9,9 +9,9 @@ si visualizzerà il menu senza errori
 
 Aggiungere a Main.java
 
-        service.FetchData(prodotti, "src/main/java/org/gs/files/prodotti.csv");
-        service.FetchData(utenti, "src/main/java/org/gs/files/utenti.csv");
-        service.FetchData(vendite, "src/main/java/org/gs/files/vendite.csv");
+        service.FetchDataFromFile(prodotti, "src/main/java/org/gs/files/prodotti.csv");
+        service.FetchDataFromFile(utenti, "src/main/java/org/gs/files/utenti.csv");
+        service.FetchDataFromFile(vendite, "src/main/java/org/gs/files/vendite.csv");
 
         Per l'uso su vscode 
 
