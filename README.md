@@ -25,17 +25,11 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
 <h1> Come far funzionare l'applicazione</h1> <br> <h2>POST FEEDBACK</h2>
 <ol>
   <li> clonare progetto con gitdesktop: https://github.com/luigibuono/ProgettoJava-Food</li>
-  <li> aprire terminale node e digitare mvn compile </li>
+  <li> aprire terminale e digitare mvn compile </li>
   <li> mvn package </li>
-  <li> java -jar target/application </li>
+  <li> ora aprire il terminale dalla cartella del progetto e digitare java jar + percorso file jar generato da mvn package</li>
 
-  Nel caso dovesse dare qualche errore o non visualizzare prodotti provare così:
-  <ul>
-    <li>Aprire cartella progetto</li>
-    <li> dalla cartella click del mouse apri terminale</li>
-    <li> dal terminale java -jar "C:\Users\user\Desktop\Progetti S2I\ProgettoJava food\File jar e PDF\application.jar"</li>
-    *attenzione questo percorso è il mio percorso del file jar,il vostro è stato inviato nella cartella zippata con pdf
-  </ul>
+
 </ol>
 *per un uso più rapido è disponibile il pulsante run nel Main.java* <br>
 <br>
