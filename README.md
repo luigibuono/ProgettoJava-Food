@@ -38,6 +38,8 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
   </ul>
 </ol>
 *per un uso più rapido è disponibile il pulsante run nel Main.java* <br>
+<br>
+<h1> SCREEN FUNZIONAMENTO</h1>
 
 ![Screenshot 2023-07-25 104200](https://github.com/luigibuono/ProgettoJava-Food/assets/128727133/3fa7f1b9-a743-4899-9234-82ba5f498c0a)
 ![Screenshot 2023-07-25 104216](https://github.com/luigibuono/ProgettoJava-Food/assets/128727133/c712d9a2-1b73-4705-953d-16f7a720e0dc)
