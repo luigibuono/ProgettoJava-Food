@@ -20,11 +20,15 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
 <hr>
 
 
-<h1> Come far funzionare l'applicazione</h1> <br>
-Nel terminale digitare : mvn compile      => per la compilazione del codice <br>
-Nel terminale digitare : mvn package      => creazione del pacchetto  <br>
-Si genererà la cartella target  <br>
-Nel terminale digitare : java -jar target/application.jar    => creazione file jar <br>
+<h1> Come far funzionare l'applicazione</h1> <br> <h2>POST FEEDBACK</h2>
+<ol>
+  <li> clonare progetto con gitdesktop: https://github.com/luigibuono/ProgettoJava-Food</li>
+  <li> aprire terminale node e digitare mvn compile </li>
+  <li> mvn package </li>
+  <li> java -jar target/application </li>
+  
+</ol>
+
 
 
 
