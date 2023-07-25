@@ -26,6 +26,14 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
   <li> aprire terminale node e digitare mvn compile </li>
   <li> mvn package </li>
   <li> java -jar target/application </li>
+
+  Nel caso dovesse dare qualche errore o non visualizzare prodotti provare così:
+  <ul>
+    <li>Aprire cartella progetto</li>
+    <li> dalla cartella click del mouse apri terminale</li>
+    <li> dal terminale java -jar "C:\Users\user\Desktop\Progetti S2I\ProgettoJava food\File jar e PDF\application.jar"</li>
+    *attenzione questo percorso è il mio percorso del file jar,il vostro è stato inviato nella cartella zippata con pdf
+  </ul>
   
 </ol>
 
