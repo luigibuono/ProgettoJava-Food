@@ -1,22 +1,5 @@
 # ProgettoJava-Food
 
-#CorrezionePost-feedback
-
-Per aprire il file jar 
-terminale node digitare java -jar "percorso file jar"
-si visualizzerà il menu senza errori 
-
-
-Aggiungere a Main.java
-
-        service.FetchDataFromFile(prodotti, "src/main/java/org/gs/files/prodotti.csv");
-        service.FetchDataFromFile(utenti, "src/main/java/org/gs/files/utenti.csv");
-        service.FetchDataFromFile(vendite, "src/main/java/org/gs/files/vendite.csv");
-
-        Per l'uso su vscode 
-
-
-
 <h1> Ho realizzato questo progetto per il corso Start2Impact Java Basics </h1>
 
 Mi sono aiutato con i consigli trovati nel progetto 'Risorse utili'. <br>
@@ -42,6 +25,8 @@ Nel terminale digitare : mvn compile      => per la compilazione del codice <br>
 Nel terminale digitare : mvn package      => creazione del pacchetto  <br>
 Si genererà la cartella target  <br>
 Nel terminale digitare : java -jar target/application.jar    => creazione file jar <br>
+
+
 
 *per un uso più rapido è disponibile il pulsante run nel Main.java* <br>
 
