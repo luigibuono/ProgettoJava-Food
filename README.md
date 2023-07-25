@@ -39,7 +39,7 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
 </ol>
 *per un uso più rapido è disponibile il pulsante run nel Main.java* <br>
 
-<img src="https://github.com/luigibuono/ProgettoJava-Food/issues/1#issuecomment-1649392322">
+https://github.com/luigibuono/ProgettoJava-Food/issues/2#issue-1819840203
 
 
 
