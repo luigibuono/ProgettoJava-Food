@@ -1,6 +1,8 @@
 # ProgettoJava-Food
 
 <h1> Ho realizzato questo progetto per il corso Start2Impact Java Basics </h1>
+<br><br>
+<h2>Il funzionamento dell'app è disponibile a fine pagina </h2>
 
 Mi sono aiutato con i consigli trovati nel progetto 'Risorse utili'. <br>
 Per il funzionamento dell'app bisogna installare  Apache Maven (https://maven.apache.org/download.cgi) apache-maven-3.9.3-bin.zip <br>
