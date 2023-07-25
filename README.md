@@ -36,13 +36,10 @@ assegno un metodo sempre con una condizione if(; < 0 || ; > ;.size()) per verifi
     <li> dal terminale java -jar "C:\Users\user\Desktop\Progetti S2I\ProgettoJava food\File jar e PDF\application.jar"</li>
     *attenzione questo percorso è il mio percorso del file jar,il vostro è stato inviato nella cartella zippata con pdf
   </ul>
-  
 </ol>
-
-
-
-
 *per un uso più rapido è disponibile il pulsante run nel Main.java* <br>
+
+https://github.com/luigibuono/ProgettoJava-Food/issues/1#issuecomment-1649392322
 
 
 
